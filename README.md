@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raphael Samuel
 ======================================================================================================================================
 
-Data Analyst | Product Management | Customer Relationship Management
+Data Analyst | Product Manager | Customer Relationship Manager
 --------------------------------------------------------------------
 
 I am a data analyst with a passion for discovering insights and solving real-world problems through data. With expertise in data analysis, visualization, and predictive modeling, I’m dedicated to continuous learning and expanding my knowledge. Here, you'll find projects that showcase my journey and skills in transforming data into impactful solutions.
