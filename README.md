@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/S-Rapha ?logo=github&style=for-the-
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" width="36" height="36" alt="Tableau" /></a>
-<a href="https://www.app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" width="36" height="36" alt="PowerBi" /></a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" width="36" height="36" alt="PowerBi" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/excel-colored.svg" width="36" height="36" alt="Excel" /></a>
 
 </p>
